@@ -1,0 +1,6 @@
+
+
+# Gsolmi
+
+Score aducational program.
+
